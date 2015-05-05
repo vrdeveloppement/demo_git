@@ -1,0 +1,3 @@
+C'est un test de présentation pour l'activité 2 du tuto Git d'Openclassroom
+
+Version 1.0 du fichier
